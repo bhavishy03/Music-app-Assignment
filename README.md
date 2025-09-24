@@ -68,13 +68,16 @@ git clone https://github.com/<your-username>/music-dashboard.git
 cd music-dashboard
 npm install
 
-📸 Screenshots
+## 📸 Screenshots
 
-Login Page
-![login](./screenshots/login.png)
-Dashboard
-![dashboard](./screenshots/dashboard.png)
-Track Upload
-![upload](./screenshots/upload.png)
-Track Details
-![details](./screenshots/details.png)
+### 🔐 Login Page
+![Login](screenshots/login.png)
+
+### 📊 Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### ⬆️ Track Upload
+![Upload](screenshots/upload.png)
+
+### 🎶 Track Details
+![Details](screenshots/details.png)
