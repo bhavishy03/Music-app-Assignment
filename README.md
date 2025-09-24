@@ -71,17 +71,3 @@ npm install
 
 ## 📸 Screenshots
 
-### 🔐 Login Page
-![Login](screenshots/login.png<img width="1359" height="637" alt="details" src="https://github.com/user-attachments/assets/db0204ce-598c-4860-90d5-7923200e477f" />
-
-### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png<img width="983" height="604" alt="dashboard" src="https://github.com/user-attachments/assets/4446d503-3c5e-4a95-a50c-4ec4dcf65553" />
-)
-
-### ⬆️ Track Upload
-![Upload](screenshots/upload.png<img width="1359" height="640" alt="upload" src="https://github.com/user-attachments/assets/b7b7618e-7a1c-4e25-aa05-13f80f1e8288" />
-)
-
-### 🎶 Track Details
-![Details](screenshots/details.p<img width="1359" height="637" alt="details" src="https://github.com/user-attachments/assets/13950d1e-a92f-4263-8560-012e0b8a4eb6" />
-ng)
