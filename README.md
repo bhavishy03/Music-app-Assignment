@@ -69,5 +69,3 @@ git clone https://github.com/<your-username>/music-dashboard.git
 cd music-dashboard
 npm install
 
-## 📸 Screenshots
-
