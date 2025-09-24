@@ -74,10 +74,10 @@ npm install
 ![Login](screenshots/login.png)
 
 ### 📊 Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="983" height="604" alt="Image" src="https://github.com/user-attachments/assets/b8d64aa2-9a20-4df2-894b-c1cd925b6037" />
 
 ### ⬆️ Track Upload
-![Upload](screenshots/upload.png)
+!Upload(screenshots/upload.png)
 
 ### 🎶 Track Details
 ![Details](screenshots/details.png)
